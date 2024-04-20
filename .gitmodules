@@ -4,3 +4,13 @@
 [submodule "A2-asteroid"]
 	path = A2-asteroid
 	url = https://github.com/wjonesrhys/A2-asteroid.git
+
+# if you rename a submodule:
+# 	- make sure to change the remote of the submodule directory
+# 	- update the .gitmodules file in the root
+# 	- git submodule add <new_remote_directory>
+# 	- git add .
+# 	- git commit -m "message of the commit"
+# 	- git push
+# 	- git submodule status to check everything is ok
+# 	- check git submodule sync if not 
