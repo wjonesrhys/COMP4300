@@ -1,6 +1,6 @@
 [submodule "assignment2"]
 	path = assignment2
 	url = https://github.com/wjonesrhys/assignment2.git
-[submodule "assignment1-setup"]
-	path = assignment1-setup
-	url = https://github.com/wjonesrhys/assignment1-setup.git
+[submodule "A1-sfml-imgui-setup"]
+	path = A1-sfml-imgui-setup
+	url = https://github.com/wjonesrhys/A1-sfml-imgui-setup.git
